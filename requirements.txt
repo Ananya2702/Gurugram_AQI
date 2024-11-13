@@ -1,7 +1,7 @@
 streamlit
 pandas
 plotly
-pmdarima
+pmdarima==2.0.3  # Specify a compatible version for stability
 scikit-learn
 statsmodels
 matplotlib
