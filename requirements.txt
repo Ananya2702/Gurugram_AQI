@@ -1,4 +1,6 @@
-statsmodels
+streamlit
 pandas
-numpy
+plotly
 pmdarima
+scikit-learn
+statsmodels
