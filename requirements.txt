@@ -1,3 +1,5 @@
+setuptools==58.0.4  # This version should work with pmdarima
+wheel
 streamlit
 pandas
 plotly
