@@ -5,3 +5,7 @@ pmdarima
 scikit-learn
 statsmodels
 matplotlib
+seaborn
+sklearn
+math
+numpy
