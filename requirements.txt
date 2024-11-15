@@ -1,4 +1,5 @@
-setuptools==58.0.4  # This version should work with pmdarima
+pip
+setuptools
 wheel
 streamlit
 pandas
